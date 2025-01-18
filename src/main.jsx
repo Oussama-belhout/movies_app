@@ -1,7 +1,7 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import { BrowserRouter } from 'react-router-dom'
-import './index.css'
+import './css/index.css'
 import App from './App.jsx'
 
 // api key 7ced51b69ae0cc99f16605a2048145e6
